@@ -27,6 +27,20 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/your-username/inventory-system.git
 
+2. **Install the dependencies:**
+
+   ```bash
+   npm install
+
+3. **Set up the database:**
+   - Ensure you have a database configured and update the connection details in the .env file.
+
+4. **Start the server:**
+
+   ```bash
+   npm run dev
+
+   
 # Technologies Used
 The following technologies are used in this project:
 
