@@ -26,3 +26,11 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/your-username/inventory-system.git
+
+# Technologies Used
+The following technologies are used in this project:
+
+- Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine that lets you build scalable network applications.
+- Express: A fast, unopinionated, and minimalist web framework for Node.js that provides a robust set of features to develop web and mobile applications.
+- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript, providing you with better tooling and error checking in development.
+- Sequelize: A promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite, and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication, and more.
